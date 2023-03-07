@@ -29,7 +29,7 @@ namespace project1
             {
                 textBox4.Text = (double.Parse(textBox1.Text) * double.Parse(textBox3.Text)).ToString();
             }
-            if (textBox2.Text == "*")
+            if (textBox2.Text == "/")
             {
                 textBox4.Text = (double.Parse(textBox1.Text) / double.Parse(textBox3.Text)).ToString();
             }
