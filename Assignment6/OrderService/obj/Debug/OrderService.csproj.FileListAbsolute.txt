@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\obj\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\obj\Debug\OrderApp.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\bin\Debug\OrderApp.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\bin\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\bin\Debug\OrderApp.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\obj\Debug\OrderService.csprojAssemblyReference.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderService\bin\Debug\OrderApp.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderService\obj\Debug\OrderApp.pdb
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderService\bin\Debug\OrderApp.dll.config
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderService\bin\Debug\OrderApp.dll
+Z:\SynologyDrive\教学\软件构造基础\2023年春季\homeworks\Homework8\OrderService\obj\Debug\OrderApp.dll
